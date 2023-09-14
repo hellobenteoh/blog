@@ -1,3 +1,5 @@
+title: My Blog
+
 # Welcome to this Blog
 
 This is a short introduction
